@@ -4,13 +4,13 @@ A production-style interactive API documentation system built with HTML, CSS, an
 
 Designed to simulate modern API documentation experiences similar to Stripe, Postman, and Swagger-based developer portals.
 
----
+--
 
 # 🌐 Live Demo
 
 https://fastlanegaurav.github.io/apidoc/
 
----
+--
 
 # 🚀 Project Overview
 
@@ -26,7 +26,7 @@ This project demonstrates a modern API documentation platform with:
 
 The system was designed to improve API discoverability, onboarding, and developer experience using a clean production-grade interface.
 
----
+--
 
 # 📐 Architecture Diagram
 
