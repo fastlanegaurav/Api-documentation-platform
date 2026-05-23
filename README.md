@@ -10,7 +10,7 @@ Designed to simulate modern API documentation experiences similar to Stripe, Pos
 
 https://fastlanegaurav.github.io/apidoc/
 
---
+---
 
 # 🚀 Project Overview
 
